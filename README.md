@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The User Authentication system was built based on [Robin Wieruch's User auth with Firebase Tutotial](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial).
+
 ## Available Scripts
 
 In the project directory, you can run:

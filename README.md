@@ -1,6 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The User Authentication system was built based on [Robin Wieruch's User auth with Firebase Tutotial](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial).
+## ENV Variables
+You must define your environment variables in a `.env` file in the root of your project, following this format:
+
+````
+REACT_APP_API_KEY=foobar
+REACT_APP_AUTH_DOMAIN=foobar.firebaseapp.com
+REACT_APP_DATABASE_URL=https://foobar.firebaseio.com
+REACT_APP_PROJECT_ID=foobarID
+REACT_APP_STORAGE_BUCKET=foobar.appspot.com
+REACT_APP_MESSAGING_SENDER_ID=foobar
+````
 
 ## Available Scripts
 
